@@ -1,7 +1,7 @@
 {
     "name": "Kolorowe Kolory Kolorów",
     "short_name": "KoKoKo",
-    "theme_color": "#dbdbdb",
+    "theme_color": "#941d6b",
     "background_color": "#00a3ff",
     "display": "fullscreen",
     "orientation": "portrait",
