@@ -1,0 +1,19 @@
+{
+    "name": "Kolorowe Kolory Kolorów",
+    "short_name": "KoKoKo",
+    "theme_color": "#dbdbdb",
+    "background_color": "#00a3ff",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/pewua/index.html",
+    "description" : "Kooooloooooory",
+    "icons" : 
+    [
+        {
+            "src" : ".img/osiem.jpg",
+            "sizes" : "1000x1000",
+            "type" : "image/jpg"
+        }
+    ]
+}
